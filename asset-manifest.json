@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SalesForcePOC.git/static/css/main.1c1e5afb.css",
-    "main.js": "/SalesForcePOC.git/static/js/main.5fe13d7d.js",
-    "static/js/787.e4d9be0f.chunk.js": "/SalesForcePOC.git/static/js/787.e4d9be0f.chunk.js",
-    "index.html": "/SalesForcePOC.git/index.html",
-    "main.1c1e5afb.css.map": "/SalesForcePOC.git/static/css/main.1c1e5afb.css.map",
-    "main.5fe13d7d.js.map": "/SalesForcePOC.git/static/js/main.5fe13d7d.js.map",
-    "787.e4d9be0f.chunk.js.map": "/SalesForcePOC.git/static/js/787.e4d9be0f.chunk.js.map"
+    "main.css": "/SalesForcePOC/static/css/main.1c1e5afb.css",
+    "main.js": "/SalesForcePOC/static/js/main.439867e4.js",
+    "static/js/787.e4d9be0f.chunk.js": "/SalesForcePOC/static/js/787.e4d9be0f.chunk.js",
+    "index.html": "/SalesForcePOC/index.html",
+    "main.1c1e5afb.css.map": "/SalesForcePOC/static/css/main.1c1e5afb.css.map",
+    "main.439867e4.js.map": "/SalesForcePOC/static/js/main.439867e4.js.map",
+    "787.e4d9be0f.chunk.js.map": "/SalesForcePOC/static/js/787.e4d9be0f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c1e5afb.css",
-    "static/js/main.5fe13d7d.js"
+    "static/js/main.439867e4.js"
   ]
 }
