@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SalesForcePOC/static/css/main.1c1e5afb.css",
+    "main.js": "/SalesForcePOC/static/js/main.439867e4.js",
+    "static/js/787.e4d9be0f.chunk.js": "/SalesForcePOC/static/js/787.e4d9be0f.chunk.js",
+    "index.html": "/SalesForcePOC/index.html",
+    "main.1c1e5afb.css.map": "/SalesForcePOC/static/css/main.1c1e5afb.css.map",
+    "main.439867e4.js.map": "/SalesForcePOC/static/js/main.439867e4.js.map",
+    "787.e4d9be0f.chunk.js.map": "/SalesForcePOC/static/js/787.e4d9be0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c1e5afb.css",
+    "static/js/main.439867e4.js"
+  ]
+}
